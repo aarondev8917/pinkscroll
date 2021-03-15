@@ -1,0 +1,9 @@
+{
+    "name": "aaron/pinkscroll",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
