@@ -5,4 +5,5 @@ Pinkvilla scroller
 - Need to start server from /public folder
 php -S localhost:8000
 - Need to install composer and run composer update to generate autoload functions
+  and vendor directory creation.
 
